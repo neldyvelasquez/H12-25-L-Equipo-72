@@ -50,3 +50,9 @@
 ### Horario seleccionado
 El horario seleccionado a partir de la **semana 1** es: **Opción 3**  
 
+#### Opción 3
+**Formato de 24 horas**  
+- 🕘 07:00 – 08:00 (México / Centroamérica)  
+- 🕘 05:00 – 06:00 (Tijuana)  
+- 🕘 10:00 – 11:00 (Argentina / Brasil / Chile)  
+
