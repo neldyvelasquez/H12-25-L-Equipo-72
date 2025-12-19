@@ -45,16 +45,15 @@ Incluso con un modelo simple:
 - Contrato de integración JSON
 
 #### Entrada
-```json
-{
-  "text": "El servicio fue excelente"
-}
-Salida
-{
-  "prevision": "Positivo",
-  "probabilidad": 0.87
-}
-Este contrato desbloquea el trabajo en paralelo
+  - {
+  -   "text": "El servicio fue excelente"
+  - }
+  - Salida
+  - {
+  -   "prevision": "Positivo",
+  -   "probabilidad": 0.87
+  - }
+  - Este contrato desbloquea el trabajo en paralelo
 
 
 ## FASE 2 – Data Science: preparación del modelo
