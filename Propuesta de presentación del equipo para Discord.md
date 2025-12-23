@@ -36,7 +36,7 @@
 - **José Julian Gómez Brizuela** 🇨🇱  
   https://www.linkedin.com/in/juliangomezbrizuela
 
-- **Lupita Baioli** 🇲🇽
+- **Lupita Baioli** 🇲🇽 
   https://www.linkedin.com/in/lupita-bailon-a45003172
    
 - **Griselda González** 🇲🇽  
