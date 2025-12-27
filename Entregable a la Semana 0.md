@@ -16,5 +16,5 @@
 08. [Minuta al 22-12-2025](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/7ce761f3719c013a9eeed6aa1820d6bc11bd527b/Minuta%2022-12-2025.md)
 09. [Minuta al 26-12-2025](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/f827a73ca81c163ccf10be8f0cc6bbdf331f3fd5/Minuta%2026-12-2025.md)
 10. [Aplicación prelimiar - Análisis de Sentimientos - Entrenado - Individual](https://indielab.cl/mvp_alura/)
-11.
-12. ___
+
+___
