@@ -1,6 +1,6 @@
 # H12-25-L-Equipo 72
 ## Proyecto 1: SentimentAPI — Análisis de Sentimientos de Feedbacks ONE
-## Entregable a la Semana 0 - 19-12-2025
+## Entregable Semanal al 26-12-2025
 ---
 
 ## 📑 Índice Principal
