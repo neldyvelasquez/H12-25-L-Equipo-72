@@ -1,6 +1,6 @@
 # H12-25-L-Equipo 72
 ## Proyecto 1: SentimentAPI — Análisis de Sentimientos de Feedbacks ONE
-## Entregable Semanal al 26-12-2025
+## Entregable Semanal al 02-01-2026
 ---
 
 ## 📑 Índice Principal
@@ -15,6 +15,9 @@
 ### Semana 1
 08. [Minuta al 22-12-2025](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/7ce761f3719c013a9eeed6aa1820d6bc11bd527b/Minuta%2022-12-2025.md)
 09. [Minuta al 26-12-2025](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/f827a73ca81c163ccf10be8f0cc6bbdf331f3fd5/Minuta%2026-12-2025.md)
-10. [Aplicación prelimiar - Análisis de Sentimientos - Entrenado - Individual](https://indielab.cl/mvp_alura/)
-
+10. [Aplicación preliminar - Análisis de Sentimientos - Entrenado - Individual](https://indielab.cl/mvp_alura/)
+### Semana 2
+11. [Minuta al 29-12-2025]
+12. [Minuta al 02-01-2026]
+13. [Aplicación preliminar V3 - Análisis de Sentimientos - Dashboard - Individual](https://indielab.cl/mvp_alura3)
 ___
