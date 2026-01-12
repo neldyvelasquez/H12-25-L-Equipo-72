@@ -51,6 +51,7 @@ Al ingresar verá la pantalla principal, donde podrá:
 - Ver los Análisis Individuales y el Dashboard Masivo  
 - Acceder a las opciones principales desde el menú  
 - Visualizar el estatus del motor neural  
+<img width="921" height="483" alt="imagen" src="https://github.com/user-attachments/assets/a049760a-8347-412e-8e11-88e71d5561ee" />
 
 ---
 
