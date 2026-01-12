@@ -80,13 +80,18 @@ Esta función le permite realizar el análisis de mensajes individuales.
 
 **Pasos para usarla:**
 
-1. Haga clic en **Análisis Individual** (desde Inicio o desde el menú lateral izquierdo).  
+1. Haga clic en **Análisis Individual** (desde Inicio o desde el menú lateral izquierdo).
+   <img width="708" height="352" alt="imagen" src="https://github.com/user-attachments/assets/1a0995b9-2cef-441f-9186-f1e8eef6f47a" />
+
 2. Complete la información solicitada (ingrese el mensaje por analizar).  
+   <img width="708" height="368" alt="imagen" src="https://github.com/user-attachments/assets/9f7cc003-5161-4c33-9ca6-e1e34c846b1c" />
+
 3. Presione **Ejecutar Análisis**.
 
 **Resultado:**
 
 La aplicación web mostrará:
+<img width="921" height="490" alt="imagen" src="https://github.com/user-attachments/assets/9d099a7c-fbaf-4d58-b744-d09e30107507" />
 
 - La traducción del mensaje al español  
 - El resultado del análisis de forma gráfica (Negativo, Neutro o Positivo)  
@@ -102,18 +107,30 @@ Esta función le permite realizar el análisis de mensajes de forma masiva y no 
 **Pasos para usarla:**
 
 1. Haga clic en **Dashboard Masivo** (desde Inicio o desde el menú lateral izquierdo).  
+   <img width="794" height="410" alt="imagen" src="https://github.com/user-attachments/assets/0111ded2-3665-4d61-85e2-9c55ae87380b" />
+
 2. Cargue el archivo con los mensajes o información para analizar.  
-3. La aplicación web procesará los datos y mostrará su avance en tiempo real.  
-4. Al finalizar, se mostrará un resumen de la información analizada.
+   <img width="921" height="493" alt="imagen" src="https://github.com/user-attachments/assets/d5c40f86-73c8-463f-8d83-26c37712b3c6" />
+   La aplicación web procesará los datos y mostrará su avance en tiempo real.  
+   
+3. Al finalizar, se mostrará un resumen de la información analizada.
+   <img width="921" height="447" alt="imagen" src="https://github.com/user-attachments/assets/0218eca5-72dd-4a0f-b38f-a477038a8418" />
 
 **Resultado:**
 
 La aplicación web mostrará los resultados en las siguientes opciones del menú lateral izquierdo:
 
-- Estadísticas  
-- Visión de Negocio  
-- Informe IA  
+- Estadísticas
+  <img width="921" height="484" alt="imagen" src="https://github.com/user-attachments/assets/4f6c1446-3a81-463d-a11b-c20f739cdf03" />
+
+- Visión de Negocio
+  <img width="921" height="469" alt="imagen" src="https://github.com/user-attachments/assets/bc0b9031-224b-4c64-9a06-bfdfbe0e40df" />
+
+- Informe IA
+  <img width="921" height="487" alt="imagen" src="https://github.com/user-attachments/assets/f8c4e3e4-e669-4c23-8f03-d92f7d94f8ad" />
+
 - Análisis 80/20  
+   <img width="921" height="451" alt="imagen" src="https://github.com/user-attachments/assets/3e60771f-fab1-424c-8253-9717898ba772" />
 
 ---
 
