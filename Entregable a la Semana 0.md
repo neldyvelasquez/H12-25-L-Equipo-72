@@ -21,7 +21,8 @@
 12. [Minuta al 02-01-2026]
 13. [Aplicación preliminar V3 - Análisis de Sentimientos - Dashboard - Individual](https://indielab.cl/mvp_alura3)
 ### Semana 3
-11. [Minuta al 05-01-2026]
-12. [Minuta al 08-01-2026]
-13. [Aplicación preliminar V4 - Análisis de Sentimientos - Dashboard - Individual](https://indielab.cl/sentiment/)
+14. [Minuta al 05-01-2026]
+15. [Minuta al 08-01-2026]
+16. [Aplicación preliminar V4 - Análisis de Sentimientos - Dashboard - Individual](https://indielab.cl/sentiment/)
+17. [Manual de usuario](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/915e755cdfbfc4ae3387cebfdb9c96c4c429836e/Manual%20de%20usuario.md)
 ___
