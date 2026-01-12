@@ -23,3 +23,8 @@
 **Angel Hernández**
 - [Complemento al Proyecto](https://github.com/S4mma3l/H12-25-L-Equipo-72/tree/feature/mejora-dataset-v6)  
 
+
+### Semana 3
+
+**Julian Gómez**
+- [Bases de Datos con información detallada de los comentarios](https://drive.google.com/drive/folders/1mFAdYIkcC5UB0eaFyilCDgBhGVroPphB)  
