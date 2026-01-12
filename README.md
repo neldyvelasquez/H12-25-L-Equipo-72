@@ -26,3 +26,24 @@
 16. [Aplicación preliminar V4 - Análisis de Sentimientos - Dashboard - Individual](https://indielab.cl/sentiment/)
 17. [Manual de usuario](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/915e755cdfbfc4ae3387cebfdb9c96c4c429836e/Manual%20de%20usuario.md)
 ___
+
+
+## 🚀 Convocatoria Demo Day – Hackathon G8 Tech Advanced LATAM
+
+Buen día, estimados y estimadas 👋  
+
+Estamos a pocos días de concluir el **Hackathon G8 Tech Advanced LATAM**, y como **equipo H12-25-L – Equipo 72**, debemos completar el **registro oficial para el Demo Day**.
+
+### 📩 ¿Qué necesitamos de ti?
+Para finalizar la inscripción, es indispensable **registrar el correo electrónico de cada integrante del equipo**.
+
+👉 **Por favor, comparte tu correo electrónico a la brevedad** para poder agregarte correctamente al registro del Demo Day.
+
+### ⏰ Fecha límite
+El plazo para recopilar los correos electrónicos finaliza el:
+
+**📅 Jueves 15 de enero de 2026**  
+**🕛 Hasta las 23:59 horas**
+
+Agradecemos mucho tu apoyo y colaboración para cumplir con este último paso y representar al equipo de la mejor manera en el Demo Day.  
+¡Vamos con todo! 💪✨
