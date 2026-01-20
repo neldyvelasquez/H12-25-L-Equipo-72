@@ -116,28 +116,28 @@ Esta función le permite realizar el análisis de mensajes de forma masiva y no 
 
 **Pasos para usarla:**
 1. Obtener base de datos para pruebas, útil para visualizar el orden de las columnas y realizar la prueba básica de funcionamiento.
-
- a. Dar clic en **inicio**  
- b. Buscar la opción **Data Demo** y dar clic sobre ella
- c. Se descargará la base de datos para pruebas
- <img width="1307" height="595" alt="image" src="https://github.com/user-attachments/assets/673ce5c7-a34f-4a2c-abf0-a4b0ff555f1c" />
-
- d. Al abrir la base de datos (carpeta **Descargas** del dispositivo que se está utilizando), se podrá ver el orden de las columnas para realizar el análisis masivo de mensajes
- <img width="1843" height="542" alt="image" src="https://github.com/user-attachments/assets/1430b824-d39c-49ee-876b-ee1907edf60b" />
-| Columna | Nombre Columna | Especificación o ejemplo |
-|------|------|------------------|
-| A | id | 1 2 3 ... n |
-| B | nombre_completo | Nombre Apellido |
-| C | email | corre@correo.com |
-| D | edad | 18 19 20 ... n |
-| E | genero | Masculino - Femenino |
-| F | ciudad | Nombre de la ciudad |
-| G | pais | Nombre del Pais |
-| H | fecha_hora | dd/mm/aaaa hh:mm |
-| I | texto | Mensaje proporcionado |
-| J | categoria | Logistica, electrónica, otras |
-| K | canal | web app redes email telefono, otro |
-| L | calificacion | 1, 2, 3, 4, 5 (negativo-positivo) |
+   
+    a. Dar clic en **inicio**  
+    b. Buscar la opción **Data Demo** y dar clic sobre ella
+    c. Se descargará la base de datos para pruebas
+    <img width="1307" height="595" alt="image" src="https://github.com/user-attachments/assets/673ce5c7-a34f-4a2c-abf0-a4b0ff555f1c" />
+   
+    d. Al abrir la base de datos (carpeta **Descargas** del dispositivo que se está utilizando), se podrá ver el orden de las columnas para realizar el análisis masivo de mensajes
+    <img width="1843" height="542" alt="image" src="https://github.com/user-attachments/assets/1430b824-d39c-49ee-876b-ee1907edf60b" />
+   | Columna | Nombre Columna | Especificación o ejemplo |
+   |------|------|------------------|
+   | A | id | 1 2 3 ... n |
+   | B | nombre_completo | Nombre Apellido |
+   | C | email | corre@correo.com |
+   | D | edad | 18 19 20 ... n |
+   | E | genero | Masculino - Femenino |
+   | F | ciudad | Nombre de la ciudad |
+   | G | pais | Nombre del Pais |
+   | H | fecha_hora | dd/mm/aaaa hh:mm |
+   | I | texto | Mensaje proporcionado |
+   | J | categoria | Logistica, electrónica, otras |
+   | K | canal | web app redes email telefono, otro |
+   | L | calificacion | 1, 2, 3, 4, 5 (negativo-positivo) |
 
 
 2. Haga clic en **Dashboard Masivo** (desde Inicio o desde el menú lateral izquierdo).  
