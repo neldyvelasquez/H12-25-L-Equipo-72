@@ -51,7 +51,7 @@ Al ingresar verá la pantalla principal, donde podrá identificar:
 - URL de acceso  
 - Nombre/Identificación de la Aplicación  
 - Menu de opciones 
-- Motor Neural alojado en OCI (ORACLE)  
+- Motor Neural alojado en **OCI (ORACLE)**
 - Idiomas de procesamiento y salida   
 - Datos para descargar y hacer pruebas de funcionamiento
 - Opción de análisis individual  
