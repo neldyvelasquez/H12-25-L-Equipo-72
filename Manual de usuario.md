@@ -106,8 +106,8 @@ La aplicación web mostrará el resultado :
 1. La traducción por defecto del mensaje, **actualmente todo lo traduce a español**, independientemente del idioma del mensaje  
 2. El motor (Modelo Data Science) que está resolviendo, **Modelo Local** para el mensaje de prueba 
 3. El resultado gráfico del análisis (Negativo, Neutro o Positivo), **muy cercano a negativo** para el mensaje de prueba  
-4. El nivel de confianza resultante para el análisis del mensaje, muy cercano al 100% para el mensaje de prueba  
-5. Traducción interna del mensaje para su procesamiento
+4. El nivel de confianza resultante para el análisis del mensaje, **muy cercano al 100%** para el mensaje de prueba  
+5. Traducción interna del mensaje para su procesamiento, **por defecto todo mensaje se traduce a inglés**
 ---
 
 ### 5.2 Análisis Masivo
@@ -115,6 +115,9 @@ La aplicación web mostrará el resultado :
 Esta función le permite realizar el análisis de mensajes de forma masiva y no está limitada a un número específico de mensajes.
 
 **Pasos para usarla:**
+0. Obtener base de datos para pruebas, útil para visualizar el orden de las columnas y realizar la prueba básica de funcionamiento.
+
+- a. URL de acceso  
 
 1. Haga clic en **Dashboard Masivo** (desde Inicio o desde el menú lateral izquierdo).  
    <img width="794" height="410" alt="imagen" src="https://github.com/user-attachments/assets/0111ded2-3665-4d61-85e2-9c55ae87380b" />
