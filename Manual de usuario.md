@@ -126,22 +126,22 @@ Esta función le permite realizar el análisis de mensajes de forma masiva y no 
     <img width="1843" height="542" alt="image" src="https://github.com/user-attachments/assets/1430b824-d39c-49ee-876b-ee1907edf60b" />
    | Columna | Nombre Columna | Especificación o ejemplo |
    |------|------|------------------|
-   | A | id | 1 2 3 ... n |
+   | A | id | 1, 2, 3, ... n |
    | B | nombre_completo | Nombre Apellido |
    | C | email | corre@correo.com |
-   | D | edad | 18 19 20 ... n |
-   | E | genero | Masculino - Femenino |
+   | D | edad | 18, 19, 20, ... n |
+   | E | genero | Masculino, Femenino |
    | F | ciudad | Nombre de la ciudad |
    | G | pais | Nombre del Pais |
    | H | fecha_hora | dd/mm/aaaa hh:mm |
    | I | texto | Mensaje proporcionado |
-   | J | categoria | Logistica, electrónica, otras |
-   | K | canal | web app redes email telefono, otro |
+   | J | categoria | Logistica, electrónica, ... |
+   | K | canal | web, app, redes, email, telefono, otro |
    | L | calificacion | 1, 2, 3, 4, 5 (negativo-positivo) |
 
-
 2. Haga clic en **Dashboard Masivo** (desde Inicio o desde el menú lateral izquierdo).  
-   <img width="794" height="410" alt="imagen" src="https://github.com/user-attachments/assets/0111ded2-3665-4d61-85e2-9c55ae87380b" />
+<img width="1411" height="702" alt="image" src="https://github.com/user-attachments/assets/b291ac80-88c6-4a34-a0a6-5151e34e2ae4" />
+
 
 3. Cargue el archivo con los mensajes o información para analizar.  
    <img width="921" height="493" alt="imagen" src="https://github.com/user-attachments/assets/d5c40f86-73c8-463f-8d83-26c37712b3c6" />
