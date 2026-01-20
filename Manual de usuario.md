@@ -46,12 +46,18 @@ Para usar la aplicación solo necesita:
 
 ## 4. Pantalla principal
 
-Al ingresar verá la pantalla principal, donde podrá:
+Al ingresar verá la pantalla principal, donde podrá identificar:
 
-- Ver los Análisis Individuales y el Dashboard Masivo  
-- Acceder a las opciones principales desde el menú  
-- Visualizar el estatus del motor neural  
-<img width="921" height="483" alt="imagen" src="https://github.com/user-attachments/assets/a049760a-8347-412e-8e11-88e71d5561ee" />
+- URL de acceso  
+- Nombre/Identificación de la Aplicación  
+- Menu de opciones 
+- Motor Neural alojado en OCI (ORACLE)  
+- Idiomas de procesamiento y salida   
+- Datos para descargar y hacer pruebas de funcionamiento
+- Opción de análisis individual  
+- Opción de análisis masivo    
+<img width="1350" height="688" alt="image" src="https://github.com/user-attachments/assets/6f30e4e9-d0b0-49ed-93f9-cb6d807848d7" />
+
 
 ---
 
