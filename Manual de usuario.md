@@ -117,7 +117,7 @@ Esta función le permite realizar el análisis de mensajes de forma masiva y no 
 **Pasos para usarla:**
 0. Obtener base de datos para pruebas, útil para visualizar el orden de las columnas y realizar la prueba básica de funcionamiento.
 
-- a. URL de acceso  
+ a. URL de acceso  
 
 1. Haga clic en **Dashboard Masivo** (desde Inicio o desde el menú lateral izquierdo).  
    <img width="794" height="410" alt="imagen" src="https://github.com/user-attachments/assets/0111ded2-3665-4d61-85e2-9c55ae87380b" />
