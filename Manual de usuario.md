@@ -88,22 +88,27 @@ Esta función le permite realizar el análisis de mensajes individuales.
 **Pasos para usarla:**
 
 1. Haga clic en **Análisis Individual** (desde Inicio o desde el menú lateral izquierdo).
-   <img width="708" height="352" alt="imagen" src="https://github.com/user-attachments/assets/1a0995b9-2cef-441f-9186-f1e8eef6f47a" />
+<img width="1491" height="761" alt="image" src="https://github.com/user-attachments/assets/b7a1479a-bc06-4617-a379-88c96502b733" />
+
 
 2. Complete la información solicitada (ingrese el mensaje por analizar).  
-   <img width="708" height="368" alt="imagen" src="https://github.com/user-attachments/assets/9f7cc003-5161-4c33-9ca6-e1e34c846b1c" />
+<img width="1481" height="653" alt="image" src="https://github.com/user-attachments/assets/4f7f9664-f3ca-4444-a5aa-3343d3e641d3" />
+
 
 3. Presione **Ejecutar Análisis**.
+<img width="1470" height="647" alt="image" src="https://github.com/user-attachments/assets/a709be7f-2250-4034-b600-321ccf13d662" />
 
 **Resultado:**
 
-La aplicación web mostrará:
+La aplicación web mostrará el resultado :
 <img width="921" height="490" alt="imagen" src="https://github.com/user-attachments/assets/9d099a7c-fbaf-4d58-b744-d09e30107507" />
 
-- La traducción del mensaje al español  
-- El resultado del análisis de forma gráfica (Negativo, Neutro o Positivo)  
-- El resultado definitivo en texto  
-- El porcentaje de certeza del resultado (de 0% a 100%)
+- 1. La traducción por defecto del mensaje, **actualmente todo lo traduce a español**, independientemente del idioma del mensaje  
+- 2. El motor (Modelo Data Science) que está resolviendo, **Modelo Local** para el mensaje de prueba 
+- 3. El resultado gráfico del análisis (Negativo, Neutro o Positivo), **muy cercano a negativo** para el mensaje de prueba  
+- 4. El nivel de confianza resultante para el análisis del mensaje, muy cercano al 100% para el mensaje de prueba  
+- 5. Traducción interna del mensaje para su procesamiento
+<img width="1258" height="751" alt="image" src="https://github.com/user-attachments/assets/9316dd53-a815-4dbd-befe-36c6cd47e1b2" />
 
 ---
 
