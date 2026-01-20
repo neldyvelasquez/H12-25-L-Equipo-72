@@ -115,18 +115,39 @@ La aplicación web mostrará el resultado :
 Esta función le permite realizar el análisis de mensajes de forma masiva y no está limitada a un número específico de mensajes.
 
 **Pasos para usarla:**
-0. Obtener base de datos para pruebas, útil para visualizar el orden de las columnas y realizar la prueba básica de funcionamiento.
+1. Obtener base de datos para pruebas, útil para visualizar el orden de las columnas y realizar la prueba básica de funcionamiento.
 
- a. URL de acceso  
+ a. Dar clic en **inicio**  
+ b. Buscar la opción **Data Demo** y dar clic sobre ella
+ c. Se descargará la base de datos para pruebas
+ <img width="1307" height="595" alt="image" src="https://github.com/user-attachments/assets/673ce5c7-a34f-4a2c-abf0-a4b0ff555f1c" />
 
-1. Haga clic en **Dashboard Masivo** (desde Inicio o desde el menú lateral izquierdo).  
+ d. Al abrir la base de datos (carpeta **Descargas** del dispositivo que se está utilizando), se podrá ver el orden de las columnas para realizar el análisis masivo de mensajes
+ <img width="1843" height="542" alt="image" src="https://github.com/user-attachments/assets/1430b824-d39c-49ee-876b-ee1907edf60b" />
+| Columna | Nombre Columna | Especificación o ejemplo |
+|------|------|------------------|
+| A | id | 1 2 3 ... n |
+| B | nombre_completo | Nombre Apellido |
+| C | email | corre@correo.com |
+| D | edad | 18 19 20 ... n |
+| E | genero | Masculino - Femenino |
+| F | ciudad | Nombre de la ciudad |
+| G | pais | Nombre del Pais |
+| H | fecha_hora | dd/mm/aaaa hh:mm |
+| I | texto | Mensaje proporcionado |
+| J | categoria | Logistica, electrónica, otras |
+| K | canal | web app redes email telefono, otro |
+| L | calificacion | 1, 2, 3, 4, 5 (negativo-positivo) |
+
+
+2. Haga clic en **Dashboard Masivo** (desde Inicio o desde el menú lateral izquierdo).  
    <img width="794" height="410" alt="imagen" src="https://github.com/user-attachments/assets/0111ded2-3665-4d61-85e2-9c55ae87380b" />
 
-2. Cargue el archivo con los mensajes o información para analizar.  
+3. Cargue el archivo con los mensajes o información para analizar.  
    <img width="921" height="493" alt="imagen" src="https://github.com/user-attachments/assets/d5c40f86-73c8-463f-8d83-26c37712b3c6" />
    La aplicación web procesará los datos y mostrará su avance en tiempo real.  
    
-3. Al finalizar, se mostrará un resumen de la información analizada.
+4. Al finalizar, se mostrará un resumen de la información analizada.
    <img width="921" height="447" alt="imagen" src="https://github.com/user-attachments/assets/0218eca5-72dd-4a0f-b38f-a477038a8418" />
 
 **Resultado:**
