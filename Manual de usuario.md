@@ -101,15 +101,13 @@ Esta función le permite realizar el análisis de mensajes individuales.
 **Resultado:**
 
 La aplicación web mostrará el resultado :
-<img width="921" height="490" alt="imagen" src="https://github.com/user-attachments/assets/9d099a7c-fbaf-4d58-b744-d09e30107507" />
-
-- 1. La traducción por defecto del mensaje, **actualmente todo lo traduce a español**, independientemente del idioma del mensaje  
-- 2. El motor (Modelo Data Science) que está resolviendo, **Modelo Local** para el mensaje de prueba 
-- 3. El resultado gráfico del análisis (Negativo, Neutro o Positivo), **muy cercano a negativo** para el mensaje de prueba  
-- 4. El nivel de confianza resultante para el análisis del mensaje, muy cercano al 100% para el mensaje de prueba  
-- 5. Traducción interna del mensaje para su procesamiento
 <img width="1258" height="751" alt="image" src="https://github.com/user-attachments/assets/9316dd53-a815-4dbd-befe-36c6cd47e1b2" />
 
+1. La traducción por defecto del mensaje, **actualmente todo lo traduce a español**, independientemente del idioma del mensaje  
+2. El motor (Modelo Data Science) que está resolviendo, **Modelo Local** para el mensaje de prueba 
+3. El resultado gráfico del análisis (Negativo, Neutro o Positivo), **muy cercano a negativo** para el mensaje de prueba  
+4. El nivel de confianza resultante para el análisis del mensaje, muy cercano al 100% para el mensaje de prueba  
+5. Traducción interna del mensaje para su procesamiento
 ---
 
 ### 5.2 Análisis Masivo
