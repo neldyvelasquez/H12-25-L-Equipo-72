@@ -65,16 +65,17 @@ Al ingresar verá la pantalla principal, donde podrá identificar:
 
 El menú se encuentra en el lateral izquierdo y contiene las siguientes opciones:
 
-| Opción | ¿Para qué sirve? |
-|------|------------------|
-| Inicio | Volver a la pantalla principal |
-| Análisis Individual | Realiza análisis individuales |
-| Dashboard | Realiza análisis masivos |
-| Estadísticas | Muestra los resultados |
-| Visión General | Muestra el estatus según la información analizada |
-| Informe IA | Muestra un informe predefinido con análisis de Inteligencia Artificial |
-| Análisis 80/20 | Muestra un análisis de Pareto sobre los mensajes |
-| Equipo | Muestra información de los integrantes a cargo de la aplicación web |
+| No. | Opción | ¿Para qué sirve? |
+|------|------|------------------|
+| 1 | Inicio | Volver a la pantalla principal |
+| 2 | Análisis Individual | Realiza análisis individuales |
+| 3 | Análisis Masivo | Realiza análisis masivos |
+| 4 | Estadísticas | Muestra los resultados |
+| 5 | Visión de Negocio | Muestra el estatus según la información analizada |
+| 6 | Informe IA | Muestra un informe predefinido con análisis de Inteligencia Artificial |
+| 7 | Análisis 80/20 | Muestra un análisis de Pareto sobre los mensajes |
+| 8 | Equipo | Muestra información de los integrantes a cargo de la aplicación web |
+<img width="511" height="660" alt="image" src="https://github.com/user-attachments/assets/fdfb838d-21f9-46db-a0b1-d933717656f6" />
 
 ---
 
