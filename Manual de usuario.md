@@ -119,7 +119,7 @@ Esta función le permite realizar el análisis de mensajes de forma masiva y no 
    
     a. Dar clic en **inicio**  
     b. Buscar la opción **Data Demo** y dar clic sobre ella
-    c. Se descargará la base de datos para pruebas
+    c. Se descargará la base de datos para pruebas, es un **archivo con extensión csv** (data_demo.csv)
     <img width="1307" height="595" alt="image" src="https://github.com/user-attachments/assets/673ce5c7-a34f-4a2c-abf0-a4b0ff555f1c" />
    
     d. Al abrir la base de datos (carpeta **Descargas** del dispositivo que se está utilizando), se podrá ver el orden de las columnas para realizar el análisis masivo de mensajes
@@ -140,17 +140,39 @@ Esta función le permite realizar el análisis de mensajes de forma masiva y no 
    | L | calificacion | 1, 2, 3, 4, 5 (negativo-positivo) |
 
 2. Haga clic en **Dashboard Masivo** (desde Inicio o desde el menú lateral izquierdo).  
-<img width="1411" height="702" alt="image" src="https://github.com/user-attachments/assets/b291ac80-88c6-4a34-a0a6-5151e34e2ae4" />
+   <img width="1411" height="702" alt="image" src="https://github.com/user-attachments/assets/b291ac80-88c6-4a34-a0a6-5151e34e2ae4" />
 
 
 3. Cargue el archivo con los mensajes o información para analizar.  
-   <img width="921" height="493" alt="imagen" src="https://github.com/user-attachments/assets/d5c40f86-73c8-463f-8d83-26c37712b3c6" />
-   La aplicación web procesará los datos y mostrará su avance en tiempo real.  
+   a. Dar clic **Subir Archivo CSV** 
+   b. En la ventana emergente, ubicar la carpeta Descargas (si va a utilizar el archvo Demo) o la carpeta donde tiene almacenado el archivo con los mensajes por analizar.
+   c. Seleccionar el archivo data_demo.csv (si va a utilizar el archvo Demo) o el archivo que contiene los mensajes por analizar
+   d. Dar click sobre el botónn **Abrir**
+   <img width="1247" height="717" alt="image" src="https://github.com/user-attachments/assets/48a62356-2995-4271-946c-45ca848c0a48" />
+
+   La aplicación web procesará los datos y mostrará su avance en tiempo real.
    
-4. Al finalizar, se mostrará un resumen de la información analizada.
-   <img width="921" height="447" alt="imagen" src="https://github.com/user-attachments/assets/0218eca5-72dd-4a0f-b38f-a477038a8418" />
+   <img width="1250" height="728" alt="image" src="https://github.com/user-attachments/assets/3d079a1a-b434-4eda-a1da-2fa1d29d5369" />
+   
+   <img width="1250" height="731" alt="image" src="https://github.com/user-attachments/assets/afab1e36-7c05-44f8-9f0c-e950c33b1acf" />
 
 **Resultado:**
+
+   Al finalizar, se mostrará un resumen de la información analizada.
+   
+   <img width="1308" height="733" alt="image" src="https://github.com/user-attachments/assets/df775dd0-c2ed-4f74-9b7f-b3a8e36b61d5" />
+
+   a. Datos numéricos del **total de registros** analizados y su distribución entre **positivos, neutros y negativos**
+   b. Gráfico de **Distribución de Sentimientos** entre **positivos, neutros y negativos**
+   d. Espacio para **Subir Archivo CSV** de nuevo, para analizar (esta opción limpia en análisis anterior)
+   d. Botones para **Esportar Resultados** y **Limpiar Todo**
+   e. Detalle individual por cada mensaje o texto analizado
+
+### 5.3 Estadísticas
+
+Esta función le permite realizar el análisis de mensajes de forma masiva y no está limitada a un número específico de mensajes.
+
+**Pasos para usarla:**
 
 La aplicación web mostrará los resultados en las siguientes opciones del menú lateral izquierdo:
 
