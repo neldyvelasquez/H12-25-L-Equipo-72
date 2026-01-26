@@ -25,13 +25,14 @@
 15. [Minuta al 08-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/ca6788bd271427862506551e6d0a0996bc487c22/Minuta%2008-01-2026.md)
 16. [Aplicación preliminar V4 - Análisis de Sentimientos - Dashboard - Individual](https://indielab.cl/sentiment/)
 17. [Manual de usuario](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6852114222e6ec9d6017d80c8713ab330a63c67a/Manual%20de%20usuario.md)
+18. [Manual técnico](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6852114222e6ec9d6017d80c8713ab330a63c67a/API/sentiment-api-readme.md)
 ### Semana 4
-18. [Minuta al 12-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6410e80c8b791844c9eb97bae9762822e0f9649d/Minuta%2012-01-2026.md)
-19. [Minuta al 15-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/80ac8499f669ab35768346211b024a79646ac03d/Minuta%2015-01-2026.md)
-20. [Versión final de la Aplicación Web](https://indielab.cl/sentiment/index.php)
+19. [Minuta al 12-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6410e80c8b791844c9eb97bae9762822e0f9649d/Minuta%2012-01-2026.md)
+20. [Minuta al 15-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/80ac8499f669ab35768346211b024a79646ac03d/Minuta%2015-01-2026.md)
+21. [Versión final de la Aplicación Web](https://indielab.cl/sentiment/index.php)
 ### Semana 5
-21. [Minuta al 19-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/2ed1ce4f20b1bb6955e28fbb75e729c86a325876/Minuta%2019-01-2026.md)
-22. [Minuta al 22-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/9993248d33c3cae5115a88cb8679ee3e12e8170f/Minuta%2022-01-2026.md)
-23. [Video Demo de la Aplicación Web](https://www.youtube.com/watch?v=Xv2KvzS9MdY)
+22. [Minuta al 19-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/2ed1ce4f20b1bb6955e28fbb75e729c86a325876/Minuta%2019-01-2026.md)
+23. [Minuta al 22-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/9993248d33c3cae5115a88cb8679ee3e12e8170f/Minuta%2022-01-2026.md)
+24. [Video Demo de la Aplicación Web](https://www.youtube.com/watch?v=Xv2KvzS9MdY)
 
 ___
