@@ -1,1 +1,79 @@
+# H12-25-L-Equipo 72  
+## Proyecto 1: SentimentAPI — Análisis de Sentimientos de Feedbacks ONE  
+
+### Minuta de Reunión
+
+**Fecha:** 29/12/2025  
+**Hora:**  
+- 🕘 07:00 – 08:00 (México / Centroamérica)  
+- 🕘 05:00 – 06:00 (Tijuana)  
+- 🕘 10:00 – 11:00 (Argentina / Brasil / Chile)  
+
+**Lugar:** Virtual  
+
+---
+
+## Asistentes
+- Neldy Velásquez  
+- Juan Carlos Vanegas Molina  
+- Julian Gómez  
+- Yeikol Zuñiga  
+
+---
+
+## Orden del día
+- Revisar los avances de la semana pasada para establecer las metas de esta semana.  
+- Planificación de objetivos para esta semana.  
+- Establecer el horario para la siguiente reunión.  
+
+---
+
+## Desarrollo de la reunión
+
+### Temas tratados
+
+#### Julian Gómez
+- Expone el funcionamiento actual del desarrollo del proyecto desde el lado de la aplicación.  
+- La funcionalidad permite analizar desde un solo mensaje hasta un archivo con varios mensajes.  
+- La carga de mensajes puede realizarse en cualquier idioma y el resultado se obtiene en español.  
+- La velocidad actual es considerada lenta debido al uso de un servicio gratuito; con un servicio de paga se espera una mejora significativa.  
+- Genera nube de palabras y gráficos enfocados en los problemas identificados (sentimientos negativos) y sus posibles soluciones.  
+- Incorpora un análisis de Pareto 80/20 enfocado en los resultados negativos.  
+- El dashboard incluye opciones de borrado y reseteo de la información.  
+- Se revisa una carga de mensajes positivos, negativos y neutros; el análisis se enfoca principalmente en los negativos.  
+- El modelo se centra en los sentimientos positivos y negativos de forma extrema, dejando de lado los neutros debido a su menor relevancia analítica.  
+
+#### Todos
+- Se considera que el avance del proyecto es significativo y se realizan algunas observaciones generales.  
+
+---
+
+## Observaciones
+- El contrato entre DS y BE no es necesario, ya que el aplicativo toma directamente el cuaderno de trabajo de DS para actualizar su funcionamiento.  
+- Se propone mejorar el modelo de DS utilizando la siguiente base de datos:  
+  - https://huggingface.co/datasets/syedkhalid076/Sentiment-Analysis/tree/main  
+
+---
+
+## Recomendaciones
+- Ninguna.  
+
+---
+
+## Acuerdos y compromisos
+
+### Todos
+- Revisar el modelo de Machine Learning para:  
+  - Entrenarlo de una mejor forma.  
+  - Obtener resultados más precisos.  
+
+---
+
+## Próxima reunión
+
+**Fecha:** 02/01/2026  
+**Hora:**  
+- 🕘 07:00 – 08:00 (México / Centroamérica)  
+- 🕘 05:00 – 06:00 (Tijuana)  
+- 🕘 10:00 – 11:00 (Argentina / Brasil / Chile)  
 
