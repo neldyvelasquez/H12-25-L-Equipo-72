@@ -1,6 +1,6 @@
 # H12-25-L-Equipo 72
 ## Proyecto 1: SentimentAPI — Análisis de Sentimientos de Feedbacks ONE
-## Entregable Semanal al 09-01-2026
+## Entregable al 25-01-2026
 ---
 
 ## 📑 Índice Principal
@@ -17,12 +17,21 @@
 09. [Minuta al 26-12-2025](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/f827a73ca81c163ccf10be8f0cc6bbdf331f3fd5/Minuta%2026-12-2025.md)
 10. [Aplicación preliminar - Análisis de Sentimientos - Entrenado - Individual](https://indielab.cl/mvp_alura/)
 ### Semana 2
-11. [Minuta al 29-12-2025]
-12. [Minuta al 02-01-2026]
+11. [Minuta al 29-12-2025](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/5d74b2e13d0957ba72079edd186bb42e456baa09/Minuta%2029-12-2026.md)
+12. [Minuta al 02-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/4bbe50cbfc0d30bcbf3c31e8f6e7ce800991d395/Minuta%2002-01-2026.md)
 13. [Aplicación preliminar V3 - Análisis de Sentimientos - Dashboard - Individual](https://indielab.cl/mvp_alura3)
 ### Semana 3
-14. [Minuta al 05-01-2026]
-15. [Minuta al 08-01-2026]
+14. [Minuta al 05-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/4bbe50cbfc0d30bcbf3c31e8f6e7ce800991d395/Minuta%2005-01-2026.md)
+15. [Minuta al 08-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/ca6788bd271427862506551e6d0a0996bc487c22/Minuta%2008-01-2026.md)
 16. [Aplicación preliminar V4 - Análisis de Sentimientos - Dashboard - Individual](https://indielab.cl/sentiment/)
 17. [Manual de usuario](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/915e755cdfbfc4ae3387cebfdb9c96c4c429836e/Manual%20de%20usuario.md)
+### Semana 4
+18. [Minuta al 12-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6410e80c8b791844c9eb97bae9762822e0f9649d/Minuta%2012-01-2026.md)
+19. [Minuta al 15-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/80ac8499f669ab35768346211b024a79646ac03d/Minuta%2015-01-2026.md)
+20. [Versión final de la Aplicación Web](https://indielab.cl/sentiment/index.php)
+### Semana 5
+21. [Minuta al 19-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/2ed1ce4f20b1bb6955e28fbb75e729c86a325876/Minuta%2019-01-2026.md)
+22. [Minuta al 22-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/9993248d33c3cae5115a88cb8679ee3e12e8170f/Minuta%2022-01-2026.md)
+23. [Video Demo de la Aplicación Web](https://www.youtube.com/watch?v=Xv2KvzS9MdY)
+
 ___
