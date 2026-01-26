@@ -24,7 +24,7 @@
 14. [Minuta al 05-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/4bbe50cbfc0d30bcbf3c31e8f6e7ce800991d395/Minuta%2005-01-2026.md)
 15. [Minuta al 08-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/ca6788bd271427862506551e6d0a0996bc487c22/Minuta%2008-01-2026.md)
 16. [Aplicación preliminar V4 - Análisis de Sentimientos - Dashboard - Individual](https://indielab.cl/sentiment/)
-17. [Manual de usuario](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/915e755cdfbfc4ae3387cebfdb9c96c4c429836e/Manual%20de%20usuario.md)
+17. [Manual de usuario](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6852114222e6ec9d6017d80c8713ab330a63c67a/Manual%20de%20usuario.md)
 ### Semana 4
 18. [Minuta al 12-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6410e80c8b791844c9eb97bae9762822e0f9649d/Minuta%2012-01-2026.md)
 19. [Minuta al 15-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/80ac8499f669ab35768346211b024a79646ac03d/Minuta%2015-01-2026.md)
