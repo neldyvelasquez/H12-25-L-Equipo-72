@@ -2,8 +2,14 @@
 ## Proyecto 1: SentimentAPI — Análisis de Sentimientos de Feedbacks ONE
 ## Entregable al 25-01-2026
 ---
-
-## 📑 Índice Principal
+## 📑 Índice Resumen General
+### Entregables
+A. [Versión final de la Aplicación Web](https://indielab.cl/sentiment/index.php)
+B. [Manual de usuario](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6852114222e6ec9d6017d80c8713ab330a63c67a/Manual%20de%20usuario.md)
+C. [Manual técnico](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6852114222e6ec9d6017d80c8713ab330a63c67a/API/sentiment-api-readme.md)
+D. [Video Demo de la Aplicación Web](https://www.youtube.com/watch?v=Xv2KvzS9MdY)
+---
+## 📑 Índice Detallado por Semana
 ### Semana 0
 01. [Minuta al 16-12-2025](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/8aa72fec3baf6b4f9629600a20dd7452bb463fd0/Minuta%2016-12-2025.md)
 02. [Minuta al 18-12-2025](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/dcda94e9aa1f1ea5e73b188a6dfa2127d6f30a35/Minuta%2018-12-2025.md)
