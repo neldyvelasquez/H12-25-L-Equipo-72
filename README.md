@@ -40,5 +40,3 @@
 22. [Minuta al 19-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/2ed1ce4f20b1bb6955e28fbb75e729c86a325876/Minuta%2019-01-2026.md)
 23. [Minuta al 22-01-2026](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/9993248d33c3cae5115a88cb8679ee3e12e8170f/Minuta%2022-01-2026.md)
 24. [Video Demo de la Aplicación Web](https://www.youtube.com/watch?v=Xv2KvzS9MdY)
-
-___
