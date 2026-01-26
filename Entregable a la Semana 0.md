@@ -4,10 +4,10 @@
 ---
 ## 📑 Índice Resumen General
 ### Entregables
-A. [Versión final de la Aplicación Web](https://indielab.cl/sentiment/index.php)
-B. [Manual de usuario](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6852114222e6ec9d6017d80c8713ab330a63c67a/Manual%20de%20usuario.md)
-C. [Manual técnico](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6852114222e6ec9d6017d80c8713ab330a63c67a/API/sentiment-api-readme.md)
-D. [Video Demo de la Aplicación Web](https://www.youtube.com/watch?v=Xv2KvzS9MdY)
+1. [Versión final de la Aplicación Web](https://indielab.cl/sentiment/index.php)
+2. [Manual de usuario](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6852114222e6ec9d6017d80c8713ab330a63c67a/Manual%20de%20usuario.md)
+3. [Manual técnico](https://github.com/neldyvelasquez/H12-25-L-Equipo-72/blob/6852114222e6ec9d6017d80c8713ab330a63c67a/API/sentiment-api-readme.md)
+4. [Video Demo de la Aplicación Web](https://www.youtube.com/watch?v=Xv2KvzS9MdY)
 
 ## 📑 Índice Detallado por Semana
 ### Semana 0
